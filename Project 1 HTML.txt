@@ -1,0 +1,39 @@
+<head>
+<title>Company Story and History</title>
+</head>
+<body>
+<h1><b><font color="#FF6C00" size="7" face="Impact">Thank you for visiting Betty and Barbara’s Basketball Bonanza</font></b></h1>
+
+<p><font color="black" size="4" face="Times New Roman"><i>Betty and Barbara’s Basketball Bonanza</i> was founded in 2000 after sisters Betty and Barbara graduated from Purdue University. Both sisters played basketball for the Boilermakers and wanted to continue to be involved with the sport they both love.</font></p>
+
+<p><font color="FF6C00" size="4" face="Verdana">Betty and Barbara are <u>committed</u> to bringing you the best basketball equipment and other related items the world has to offer.</font></p>
+
+<h2><u>Our Story</u></h2>
+<p><font color="FF6C00" size="4" face="Verdana">Over the years, Betty and Barbara’s Basketball Bonanza has grown into a trusted brand in the basketball community. We supply high-quality basketballs, hoops, apparel, and training gear to athletes of all levels.</font></p>
+
+<h3>Our History</h3>
+<ol>
+  <li>Founded in 2000 in West Lafayette, Indiana</li>
+  <li>Appeared on Shark Tank in 2004 and struck a deal with Mark Cuban</li>
+  <li>Made our 1,000,000th sale in August 2007</li>
+  <li>Launched a partnership with the NBA in 2011</li>
+  <li>Hit an all time high of $1.2 Billion in sales in 2019</li>
+</ol>
+
+<h3>Our Products</h3>
+<ul>
+  <li>Indoor and outdoor basketballs</li>
+  <li>Customize jerseys</li>
+  <li>Basketball Shoes</li>
+  <li>NBA branded merchandise</li>
+  <li>Accessories and training gear</li>
+</ul>
+
+<p>Visit our partners at <a href="http://www.nba.com" target="_blank">The NBA</a> or <a href="http://www.wnba.com" target="_blank">The WNBA.</a></p>
+
+
+<p>Download our latest catalog: <a href="catalog.pdf" download>Click Here</a></p>
+<p><a href="mailto:bgleim@purdue.edu"><font size="3">Contact Us!</font></a></p>
+<p>Last Modified: <script>document.write(document.lastModified);</script></p>
+</body>
+</html>
